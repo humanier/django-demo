@@ -11,3 +11,7 @@ python manage.py startapp api
 python manage.py makemigrations
 
 python manage.py migrate
+
+-----------------
+# Запуск сервера
+python manage.py runserver
